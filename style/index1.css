@@ -1,0 +1,67 @@
+nav > ul{
+    display: flex;
+    gap: 50px;
+    justify-content: center;   
+}
+nav ul > li{
+    margin-top: 20px;
+    list-style: none;
+}
+.home{
+    margin-top: 20px;
+    color: red;
+    list-style: none;
+}
+.btn1st{
+    margin-top:20px;  
+}
+.banner{
+    
+    display: flex;
+    justify-content: center; 
+}
+.title{
+    border: solid antiquewhite;
+    margin: 20px;
+    
+}
+.title h1{
+    text-align: center;
+}
+.title p{
+    text-align: center;
+}
+.prayer h3{
+    text-align: center;
+}
+.prayer p{
+    text-align: center;
+}
+.prayer{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.program{
+    margin-bottom: 20px;
+    border: solid antiquewhite;
+    margin: 20px;
+    text-align: center;
+
+}
+.content {
+    display: flex;
+    justify-content: center;
+    gap:20px;
+}
+.yewllo{
+    display: flex;
+    justify-content: center;
+}
+.social{
+    border: solid burlywood;
+    background-color: bisque;
+}
+.social h3{
+    text-align: center;
+}
